@@ -5,16 +5,6 @@
     <link>https://ustc-cs.github.io/tags/</link>
     <description>Recent content in Tags on USTC-CS Student Union</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ustc-cs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>activity</title>
-      <link>https://ustc-cs.github.io/tags/activity/</link>
-      <pubDate>Tue, 27 Apr 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://ustc-cs.github.io/tags/activity/</guid>
-      <description></description>
-    </item>
-    
+    <language>us-en</language><atom:link href="https://ustc-cs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on USTC-CS Student Union</title>
+    <link>https://ustc-cs.github.io/members/</link>
+    <description>Recent content in Members on USTC-CS Student Union</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>us-en</language>
+    <lastBuildDate>Wed, 28 Apr 2021 10:45:13 +0800</lastBuildDate><atom:link href="https://ustc-cs.github.io/members/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
